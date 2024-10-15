@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Antonio",
+    "lastName": "Estrada",
+    "age": 29,
+    "gender": "M"
+  },
+  {
+    "name": "Pedro",
+    "lastName": "Fernandez",
+    "age": 35,
+    "gender": "M"
+  },
+  {
+    "name": "Laura",
+    "lastName": "Martinez",
+    "age": 24,
+    "gender": "F",
+    "occupation": "Engineer"
+  },
+  {
+    "name": "Carlos",
+    "lastName": "Garcia",
+    "age": 40,
+    "gender": "M",
+    "occupation": "Teacher"
+  },
+  {
+    "name": "Ana",
+    "lastName": "Lopez",
+    "age": 32,
+    "gender": "F",
+    "occupation": "Doctor"
+  },
+  {
+    "name": "David",
+    "lastName": "Gomez",
+    "age": 28,
+    "gender": "M",
+    "occupation": "Developer"
+  },
+  {
+    "name": "Sofia",
+    "lastName": "Sanchez",
+    "age": 22,
+    "gender": "F",
+    "occupation": "Designer"
+  },
+  {
+    "name": "Jose",
+    "lastName": "Perez",
+    "age": 45,
+    "gender": "M",
+    "occupation": "Lawyer"
+  },
+  {
+    "name": "Alexia",
+    "lastName": "Ortiz",
+    "age": 30,
+    "gender": "F",
+    "occupation": "Nurse"
+  },
+  {
+    "name": "Miguel",
+    "lastName": "Ruiz",
+    "age": 27,
+    "gender": "M",
+    "occupation": "Architect"
+  },
+  {
+    "name": "Lucia",
+    "lastName": "Ramirez",
+    "age": 34,
+    "gender": "F",
+    "occupation": "Accountant"
+  },
+  {
+    "name": "Diego",
+    "lastName": "Molina",
+    "age": 36,
+    "gender": "M",
+    "occupation": "Salesman"
+  },
+  {
+    "name": "Carmen",
+    "lastName": "Hernandez",
+    "age": 41,
+    "gender": "F",
+    "occupation": "Pharmacist"
+  },
+  {
+    "name": "Ricardo",
+    "lastName": "Torres",
+    "age": 29,
+    "gender": "M",
+    "occupation": "Engineer"
+  },
+  {
+    "name": "Marta",
+    "lastName": "Reyes",
+    "age": 33,
+    "gender": "F",
+    "occupation": "Teacher"
+  },
+  {
+    "name": "Juan",
+    "lastName": "Diaz",
+    "age": 38,
+    "gender": "M",
+    "occupation": "Developer"
+  },
+  {
+    "name": "Elena",
+    "lastName": "Castillo",
+    "age": 26,
+    "gender": "F",
+    "occupation": "Photographer"
+  },
+  {
+    "name": "Francisco",
+    "lastName": "Vega",
+    "age": 42,
+    "gender": "M",
+    "occupation": "Mechanic"
+  },
+  {
+    "name": "Gabriela",
+    "lastName": "Flores",
+    "age": 28,
+    "gender": "F",
+    "occupation": "Writer"
+  },
+  {
+    "name": "Victor",
+    "lastName": "Morales",
+    "age": 31,
+    "gender": "M",
+    "occupation": "Journalist"
+  }
+]

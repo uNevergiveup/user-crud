@@ -1,0 +1,15 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "api backend para user crud",
+  "main": "y",
+  "scripts": {
+    "test": "y"
+  },
+  "author": "antonio",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}
